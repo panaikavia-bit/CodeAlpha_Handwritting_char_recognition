@@ -1,0 +1,2 @@
+# CodeAlpha_Handwritting_char_recognition
+HAND_CHAR
